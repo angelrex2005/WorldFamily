@@ -63,3 +63,15 @@ img{
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
+.img{
+  position: relative;
+    display: grid;
+    place-items: center;
+    width: 1000px;
+    height: 140px;
+
+    background-image: url(http://status.mclive.eu/RELIGIOSOCRAFT/game2.falixserver.net/10018/banner.png);
+    background-repeat: no-repeat;
+    background-position: center
+  
+}
