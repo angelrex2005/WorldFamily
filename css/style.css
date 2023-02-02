@@ -65,7 +65,7 @@ img{
 }
 .img{
   position: relative;
-    display: grid;
+
     place-items: center;
     width: 1000px;
     height: 140px;
